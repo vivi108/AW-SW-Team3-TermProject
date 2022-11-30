@@ -69,7 +69,7 @@ https://github.com/naver/r2d2/blob/master/extract_kapture.py provided
 in the https://github.com/naver/r2d2#feature-extraction-with-kapture-datasets.
 See https://github.com/naver/kapture#local-features for more local feature types that are directly supported in kapture.
 
-But Actually R2D3 doesn't work our project so that we use **D2_Net**
+If R2D2 doesn't work for project, use **D2_Net**
 
 #### extract own __global features__
 Custom global features in the __kapture__ format can be used as well.
