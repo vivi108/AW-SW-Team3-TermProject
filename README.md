@@ -47,13 +47,13 @@ After installing python (>=3.6) and COLMAP (>=3.6), this toolbox can be installe
 .
 
 ## License
-Software license is detailed in the LICENSE[\LICENSE] file.
+Software license is detailed in the **LICENSE** file.
 
 ## References
 If you use this work for your research, please cite the respective paper(s):
 
-.Structure-based localization or kapture format
-----
+### Structure-based localization or kapture format
+```
 @misc{kapture2020,
       title={Robust Image Retrieval-based Visual Localization using Kapture},
       author={Martin Humenberger and Yohann Cabon and Nicolas Guerin and Julien Morat and Jérôme Revaud and Philippe Rerole and Noé Pion and Cesar de Souza and Vincent Leroy and Gabriela Csurka},
@@ -62,10 +62,10 @@ If you use this work for your research, please cite the respective paper(s):
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
-----
+```
 
-.Image retrieval benchmark
-----
+### Image retrieval benchmark
+```
 @inproceedings{benchmarking_ir3DV2020,
       title={Benchmarking Image Retrieval for Visual Localization},
       author={Noé Pion, Martin Humenberger, Gabriela Csurka, Yohann Cabon, Torsten Sattler},
@@ -80,4 +80,4 @@ If you use this work for your research, please cite the respective paper(s):
   year={2022},
   publisher={Springer}
 }
-----
+``` 
