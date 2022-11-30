@@ -1,5 +1,6 @@
 # AW-SW-Team3-TermProject
 semester project of Advanced Topics In Software (Gachon univ.)
+**In this repository only datas & codes exist for easy-use what we actually focus on.**
 
 ## Overview
 
