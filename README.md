@@ -8,8 +8,8 @@ It strongly relies on the https://github.com/naver/kapture[kapture] format for d
 
 The localization algorithms include and what we did is:
 
- . **mapping**,
- . **localization**
+ - **mapping**,
+ - **localization**
 
 It works on Ubuntu, Windows, and MacOS.
 
@@ -17,13 +17,13 @@ It works on Ubuntu, Windows, and MacOS.
 
 The directories are organised as follow:
 
-----
+```
 ├── kapture_localization/  # package (library)
 ├── pipeline/              # main programs executing all steps of the localization pipelines
 ├── samples/               # some sample data
 ├── tests/                 # unit tests
 └── tools/                 # sub programs involved in the pipeline
-----
+```
 
 
 The __kapture-localization__ toolbox is available as:
@@ -33,9 +33,9 @@ The __kapture-localization__ toolbox is available as:
 
 There are 3 pipelines available:
 
- . mapping,
- . localization, and
- . image retrieval benchmark (global sfm, local sfm, pose approximation).
+ 1. mapping,
+ 2. localization, and
+ 3. image retrieval benchmark (global sfm, local sfm, pose approximation).
 
 ## Installation
 
@@ -46,10 +46,10 @@ After installing python (>=3.6) and COLMAP (>=3.6), this toolbox can be installe
 
 .
 
-== License
-Software license is detailed in the link:LICENSE[LICENSE] file.
+## License
+Software license is detailed in the LICENSE[\LICENSE] file.
 
-== References
+## References
 If you use this work for your research, please cite the respective paper(s):
 
 .Structure-based localization or kapture format
